@@ -44,3 +44,25 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 <hr>
 
 ![Divy Singhal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=divysinghal0123&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
+<hr>
+
+<h1 align="center">You can find me on :-</h1>
+<p align="center">
+  <a href="https://www.instagram.com/thevamsi2395/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" height=20></a>
+  <a href="https://stackoverflow.com/users/19970419/d-vamsidhar">
+    <img src="https://img.shields.io/badge/Stack Overflow-%23F48024.svg?&style=plastic&logo=stackoverflow&logoColor=white" height=20></a>
+  <a href="https://www.linkedin.com/in/dvamsidhar5932200802/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white" height=20></a>
+  <a href="https://www.hackerrank.com/dvamsidhar">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
+  <a href="https://www.hackerrank.com/dvamsidhar">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=plastic&logo=LeetCode&logoColor=white" height=20></a>
+  <a href="https://www.hackerrank.com/dvamsidhar">
+    <img src="https://img.shields.io/badge/-HackerEarth-2C3454?&style=plastic&logo=HackerEarth&logoColor=white" height=20></a>
+</p>
+
+
+![Profile views](https://gpvc.arturio.dev/divysinghal0123)
+
