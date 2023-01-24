@@ -31,3 +31,16 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=30>
   <img src="https://img.shields.io/badge/IBM-052FAD?style=plastic&logo=IBM&logoColor=white" height=30>
 </p>
+
+
+## 📊 GitHub Stats:
+![Divy Singhal's Stats](https://github-readme-stats.vercel.app/api?username=divysinghal0123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=divysinghal0123&theme=highcontrast)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divysinghal0123&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=divysinghal0123&theme=onestar&no-frame=true&no-bg=false&column=-1)
+
+<hr>
+
+![Divy Singhal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=divysinghal0123&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
