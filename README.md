@@ -24,3 +24,10 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
 </p>
+
+<h1 align='center'> Certification Completed From </h1>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=30>
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=plastic&logo=IBM&logoColor=white" height=30>
+</p>
