@@ -22,4 +22,5 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
 </p>
